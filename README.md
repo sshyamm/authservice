@@ -13,7 +13,7 @@ This project is a web application developed using Django and Django REST Framewo
 
 ## Setup Instructions
 
-### 1. Clone the Repository
+### Follow the below instructions
 
 First, clone the repository to your local machine:
 
@@ -21,7 +21,7 @@ First, clone the repository to your local machine:
 git clone (repository-url)
 cd (repository-directory)
 
-### 2. Create and Activate a Virtual Environment
+### 2. Create and Activate a Virtual Environment (If the given environment file is not working as expected)
 
 Create a virtual environment to manage your project dependencies:
 
